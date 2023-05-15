@@ -8,37 +8,21 @@
     <p> 🧑‍💻 I'm a young enthusiast in the world of computer science, and I'm particularly passionate about Frontend development and Designing website interfaces. I'm always eager to learn new technologies and programming languages.</p>
     <h2>Skills 💡</h2>
     <table>
-  <thead>
-    <tr>
-      <th>Language 📙</th>
-      <th>Level 💹</th>
-    </tr>
-   
-  </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>HTML 🟠</td>
-      <td>Advanced ⚡️</td>
     </tr>
     <tr>
       <td>CSS 🟦</td>
-      <td>Intermediate ⚙️</td>
     </tr>
     <tr>
       <td>Bootstrap 🟪</td>
-      <td>Intermediate ⚙️</td>
     </tr>
     <tr>
       <td>JavaScript 🟡</td>
-      <td>Beginner 🔎</td>
     </tr>
     <tr>
       <td>Svelte 🟧</td>
-      <td>Beginner 🔎</td>
     </tr>
   </tbody>
 </table>
