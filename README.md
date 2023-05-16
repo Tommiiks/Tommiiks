@@ -31,7 +31,7 @@
 ## Projects :computer:
 
 Here are some of the websites that I've created:
-- [TikTok Recording Web App](https://tiktokrecording.com) - A web app for recording TikTok live streams. Built with <a href="https://github.com/Michele0303" target="_blank">@Michele0303</a>
+- [TikTok Recording Web App](http://tikrecorder.com/) - A web app for recording TikTok live streams. Built with <a href="https://github.com/Michele0303" target="_blank">@Michele0303</a>
 
     <h2>Contact Me 📩</h2>
     <p>Feel free to reach out to me on Telegram at <a href="https://t.me/Tommiics">@Tommiics</a>. I'm always open to collaborating with other developers and exploring new projects together.🔵</p>
