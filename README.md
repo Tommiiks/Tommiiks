@@ -31,10 +31,11 @@
 ## Projects :computer:
 
 Here are some of the websites that I've created:
-- [TikTok Recording Web App](http://tikrecorder.com/) - A web app for recording TikTok live streams. Built with <a href="https://github.com/Michele0303" target="_blank">@Michele0303</a>
-- 
+- [TikTok Recording Web App](http://tikrecorder.com/) - A website designed for presenting the TikTokLive Recorder tool. This site showcases the functionality of the TikTokLive Recorder, allowing users to understand its features. Built with <a href="https://github.com/Michele0303" target="_blank">@Michele0303</a> (STILL TO BE COMPLETED)
 
-    <h2>Contact Me 📩</h2>
-    <p>Feel free to reach out to me on Telegram at <a href="https://t.me/Tommiics">@Tommiics</a> or via email: <a href="mailto:tommasogrisanti04@gmail.com">tommasogrisanti04@gmail.com</a> <br> I'm always open to collaborating with other developers and exploring new projects together.🔵</p>
-  </body>
+- [280Grammi Pizzeria Website](http://www.280grammi.it) - The official website of 280 Grammi Pizzeria, offering a diverse menu ranging from classic Margherita to the chef's special creations. Users can explore the menu and conveniently reserve a table directly from the website for a seamless dining experience. Built with <a href="https://github.com/peppinotechtrends" target="_blank">@PeppinoTechTrends</a>
+
+  <h2>Contact Me 📩</h2>
+  <p>Feel free to reach out to me on Telegram at <a href="https://t.me/Tommiics">@Tommiics</a> or via email: <a href="mailto:tommasogrisanti04@gmail.com">tommasogrisanti04@gmail.com</a> <br> I'm always open to collaborating with other developers and exploring new projects together.🔵</p>
+</body>
 </html>
