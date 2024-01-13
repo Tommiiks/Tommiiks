@@ -12,7 +12,7 @@
 
 - [280Grammi Pizzeria Website](http://www.280grammi.it) - The official website of 280 Grammi Pizzeria, offering a diverse menu ranging from classic Margherita to the chef's special creations. Users can explore the menu and conveniently reserve a table directly from the website for a seamless dining experience. Built with <a href="https://github.com/peppinotechtrends" target="_blank">@PeppinoTechTrends</a>
 
-- [DeskWeb](https://github.com/PeppinoTechTrends/DeskWeb) - DeskWeb it's a dynamic application for streaming a computer's desktop to a web interface. The key components include a Java client for desktop screen capture, a Python web server (Flask) for receiving screen data, and Apache Kafka for facilitating communication between the client and server. I took charge of the Frontend development using HTML and CSS Built with <a href="https://github.com/peppinotechtrends" target="_blank">@PeppinoTechTrends</a>
+- [DeskWeb](https://github.com/PeppinoTechTrends/DeskWeb) - DeskWeb it's a dynamic application for streaming a computer's desktop to a web interface. The key components include a Java client for desktop screen capture, a Python web server (Flask) for receiving screen data, and Apache Kafka for facilitating communication between the client and server. I took charge of the Frontend development using HTML and CSS. Built with <a href="https://github.com/peppinotechtrends" target="_blank">@PeppinoTechTrends</a>
 
   
     <h2>Skills 💡</h2>
