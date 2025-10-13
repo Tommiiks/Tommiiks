@@ -1,44 +1,32 @@
-<html>
-  <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
-    <h5 style="font-weight: bold;">ABOUT ME 👀 </h3>
-  </head>
-  <body>
-    <h2>Tommaso, 19 years old 🐈 </h2>
-    <p> 🧑‍💻 I'm a young enthusiast in the world of computer science, and I'm particularly passionate about Frontend development and Designing website interfaces. I'm always eager to learn new technologies and programming languages.</p>
+    <title>About Me - Tommaso Grisanti</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; color: #333; }
+        h2 { color: #2c3e50; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        ul { margin-top: 0; }
+    </style>
+</head>
+<body>
 
-    
-## Projects :computer:
+    <h2>Tommaso Grisanti</h2>
+    <p>I'm a 21-year-old developer interested in both Fullstack development. I’m currently learning Backend technologies while building projects that integrate Dart and Flutter for the interface.</p>
 
-- [280Grammi Pizzeria Website](https://github.com/Tommiiks/280Grammi) - The official website of 280 Grammi Pizzeria (www.280grammi.it), offering a diverse menu ranging from classic Margherita to the chef's special creations. Users can explore the menu and conveniently reserve a table directly from the website for a seamless dining experience.
+    <h2>Projects</h2>
+    <ul>
+        <li><a href="https://github.com/Tommiiks/280Grammi">280Grammi Pizzeria Website</a> – Website for 280 Grammi Pizzeria, with a focus on menu display and table reservation.</li>
+        <li><a href="https://github.com/PeppinoTechTrends/DeskWeb">DeskWeb</a> – Desktop streaming application. I handled the Frontend in Flutter, with a Java client and Python Flask server for the backend.</li>
+    </ul>
 
-- [DeskWeb](https://github.com/PeppinoTechTrends/DeskWeb) - DeskWeb it's a dynamic application for streaming a computer's desktop to a web interface. The key components include a Java client for desktop screen capture, a Python web server (Flask) for receiving screen data, and Apache Kafka for facilitating communication between the client and server. I took charge of the Frontend development using HTML and CSS. Built with <a href="https://github.com/peppinotechtrends" target="_blank">@PeppinoTechTrends</a>
+    <h2>Technical Interests</h2>
+    <p>I focus on Dart and Flutter for interface development, while gradually learning Java for Backend applications. I’m interested in building full-stack projects and improving my understanding of software best practices.</p>
 
-  
-    <h2>Skills 💡</h2>
-    <table>
-  <tbody>
-    <tr>
-      <td>HTML 🟠</td>
-    </tr>
-    <tr>
-      <td>CSS 🟦</td>
-    </tr>
-    <tr>
-      <td>Bootstrap 🟪</td>
-    </tr>
-    <tr>
-      <td>JavaScript 🟡</td>
-    </tr>
-    <tr>
-      <td>Svelte 🟧</td>
-    </tr>
-  </tbody>
-</table>
-
-  <h2>Contact Me 📩</h2>
-  <p>Feel free to reach out to me on Telegram at <a href="https://t.me/Tommiics">@Tommiics</a> or via email: <a href="mailto:tommasogrisanti04@gmail.com">tommasogrisanti04@gmail.com</a> <br> I'm always open to collaborating with other developers and exploring new projects together.🔵</p>
-
+    <h2>Contact</h2>
+    <p>Reach me on Telegram: <a href="https://t.me/Tommiics">@Tommiics</a> or via email: <a href="mailto:tommasogrisanti04@gmail.com">tommasogrisanti04@gmail.com</a>.</p>
 
 </body>
 </html>
