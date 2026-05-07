@@ -33,16 +33,6 @@ I enjoy building projects from real problems and carrying them through to comple
 - **Database:** SQL, PostgreSQL
 - **Tools:** Git, Postman, Maven, IntelliJ IDEA
 
-## Experience
-
-### Informazione+ - Civil Service
-**Isnello, Sicily**  
-**June 2023 - June 2024**
-
-- Supported citizens and tourists through front-office and back-office help desk activities.
-- Created posters, brochures, and communication materials for cultural and local events.
-- Collaborated with the team on local initiatives, strengthening communication, autonomy, and project support skills.
-
 ## Contact
 
 - GitHub: [@Tommiiks](https://github.com/Tommiiks)
