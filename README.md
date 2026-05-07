@@ -6,6 +6,17 @@ I enjoy building projects from real problems and carrying them through to comple
 
 ## Projects
 
+- [**Mia Patente**](https://t.me/patentebmanuale)
+  Designer and Social Media Manager
+  Built and grew the project through educational and viral content, video generation and publishing automation, Canva-based study materials, and Telegram community management.
+  Reached 21.5k+ likes and 400k+ views on TikTok, while supporting a 10k+ member Telegram community.
+
+- [**Telegram Inspired Clone**](https://github.com/Tommiiks/telegram-clone)
+  Java, Spring Boot, WebSocket, JWT
+  Messaging app inspired by Telegram. Backend handles OTP login via email, JWT auth,
+  private conversations, file and photo uploads, reply/edit/delete, read receipts,
+  and realtime notifications via WebSocket/STOMP.
+
 - [**URL Shorter Service**](https://github.com/Tommiiks/url-shorter)
   Java, Spring Boot, SQL, PostgreSQL
   Web application for generating shortened URLs with automatic redirect to the original link.
@@ -14,11 +25,6 @@ I enjoy building projects from real problems and carrying them through to comple
 - [**280Grammi - Full Stack Website**](https://github.com/Tommiiks/280Grammi)
   HTML, CSS, JavaScript, Spring
   Full website developed from scratch for a local business, with a modern responsive design optimized for desktop and mobile.
-
-- **Mia Patente**
-  Designer and Social Media Manager
-  Built and grew the project through educational and viral content, video generation and publishing automation, Canva-based study materials, and Telegram community management.
-  Reached 21.5k+ likes and 400k+ views on TikTok, while supporting a 10k+ member Telegram community.
 
 ## Technical Skills
 
