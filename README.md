@@ -9,7 +9,7 @@ I enjoy building projects from real problems and carrying them through to comple
 - [**Mia Patente**](https://t.me/patentebmanuale)
   Founder & Backend Developer
   Built and grew the project through educational and viral content, video generation and publishing automation, Canva-based study materials, and Telegram community management.
-  Reached 21.5k+ likes and 400k+ views on TikTok, while supporting a 10k+ member Telegram community.
+  Reached 100k+ likes and 1M+ views on TikTok, while supporting a 10k+ member Telegram community.
 
 - [**Telegram Inspired Clone**](https://github.com/Tommiiks/telegram-clone)
   Java, Spring Boot, WebSocket, JWT
